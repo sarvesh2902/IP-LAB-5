@@ -46,7 +46,7 @@
             "name": "React",
             "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
             "_id": { "$oid": "632ac913690438c2477a82ce" }
-        },
+        }
     ],
     "projects": [
         {
