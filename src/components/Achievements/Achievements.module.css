@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.allAch {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.ach {
+    margin: 1% 2%;
+    position: relative;
+}
+
+.editBtn {
+    cursor: pointer;
+    position: absolute;
+    top: -17%;
+    left: -2.3%;
+}
+
+.delBtn {
+    cursor: pointer;
+    position: absolute;
+    top: -15%;
+    right: -2%;
+}
+
+.addBtn {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    cursor: pointer;
+    text-align: center;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}

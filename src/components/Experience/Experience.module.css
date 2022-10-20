@@ -1,0 +1,59 @@
+.header {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.titleLoc {
+    display: flex;
+    justify-content: space-between;
+}
+
+.loc {
+    font-size: small;
+}
+
+.company {
+    font-weight: 550;
+    margin-bottom: 0;
+}
+
+.timePeriod {
+    font-size: small;
+}
+
+.allExp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.exp {
+    position: relative;
+    margin: 1% 2%;
+}
+
+.editBtn {
+    cursor: pointer;
+    position: absolute;
+    top: -4.7%;
+    left: -2.3%;
+}
+
+.delBtn {
+    cursor: pointer;
+    position: absolute;
+    top: -4%;
+    right: -2%;
+}
+
+.addBtn {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    cursor: pointer;
+    text-align: center;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}

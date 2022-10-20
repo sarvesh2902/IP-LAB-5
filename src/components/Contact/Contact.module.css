@@ -1,0 +1,79 @@
+.header {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.form {
+    margin: 0 300px;
+}
+
+.submitBtn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.githubLogo {
+    /* max-width: 3%;
+    max-height: 3%; */
+    margin-left: 5%;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.logoDiv {
+    display: flex;
+    justify-content: center;
+    margin: 3% 0;
+}
+
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+    margin: 0;
+}
+
+.logo {
+    position: relative;
+    margin: 1% 6%;
+}
+
+.editBtn {
+    cursor: pointer;
+    position: absolute;
+    top: 21%;
+    left: -48%;
+    z-index: 1;
+}
+
+.delBtn {
+    cursor: pointer;
+    position: absolute;
+    top: 23.8%;
+    right: -45%;
+    z-index: 1;
+}
+
+.addBtn {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    text-align: center;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+.handleLogos {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}

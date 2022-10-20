@@ -1,0 +1,67 @@
+.intro {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 100px;
+}
+
+.intro > * {
+    flex: 1;
+    flex-wrap: wrap;
+}
+
+.introImg {
+    padding: 70px;
+    width: 50%;
+    height: 50%;
+    padding-bottom: 0px;
+}
+
+.introText {
+    padding: 70px;
+    align-self: center;
+    min-width: 50%;
+    padding-bottom: 0px;
+}
+
+.aboutMe {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 100px;
+}
+
+.aboutMe > * {
+    flex: 1;
+}
+
+.aboutMeImg {
+    padding: 70px;
+    width: 50%;
+    height: 50%;
+    padding-bottom: 0px;
+}
+
+.aboutMeText {
+    padding: 70px;
+    align-self: center;
+    min-width: 50%;
+    padding-bottom: 0px;
+}
+
+.introEdit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.editBtnIntro {
+    cursor: pointer;
+    position: absolute;
+    right: 90%;
+    top: 11%;
+}
+
+.editBtnAbout {
+    cursor: pointer;
+    position: absolute;
+    right: 90%;
+    top: 90%;
+}

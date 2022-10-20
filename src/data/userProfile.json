@@ -1,0 +1,190 @@
+{
+    "_id": { "$oid": "633fc4d9c7b42d57b90fbe5a" },
+    "name": "Sarvesh",
+    "email": "sarvesh2902@gmail.com",
+    "intro": "My name is Sarvesh Patil",
+    "introImg": "https://res.cloudinary.com/sarveshp46/image/upload/c_scale,w_1000/v1657258037/1656832322291_sp2pez.jpg",
+    "aboutMe": "I am a Web Developer skilled with ReactJS, NextJS, NodeJS, ExpressJS, MongoDB",
+    "aboutMeImg": "https://res.cloudinary.com/sarveshp46/image/upload/c_scale,w_1000/v1657258037/1656832322291_sp2pez.jpg",
+    "skills": [
+        {
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
+        },
+        {
+            "name": "NodeJS",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82cf" }
+        },
+        {
+            "name": "ExpressJS",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d0" }
+        },
+        {
+            "name": "MongoDB",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d1" }
+        },
+        {
+            "name": "NextJS",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d2" }
+        },
+        {
+            "name": "Cloudinary",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d3" }
+        }
+    ],
+    "projects": [
+        {
+            "title": "Portfolio Pro",
+            "type": "Website",
+            "desc": "description",
+            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
+            "github": "https://github.com/SarveshPatil46/portfolio",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d4" }
+        },
+        {
+            "title": "Portfolio Pro",
+            "type": "Website",
+            "desc": "description",
+            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
+            "github": "https://github.com/SarveshPatil46/portfolio",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d5" }
+        },
+        {
+            "title": "Portfolio Pro",
+            "type": "Website",
+            "desc": "description",
+            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
+            "github": "https://github.com/SarveshPatil46/portfolio",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d6" }
+        },
+        {
+            "title": "Portfolio Pro",
+            "type": "Website",
+            "desc": "description",
+            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
+            "github": "https://github.com/SarveshPatil46/portfolio",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d7" }
+        }
+    ],
+    "exp": [
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82d8" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82d9" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82da" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82db" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82dc" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82dd" }
+        }
+    ],
+    "ach": [
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82de" }
+        },
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82df" }
+        },
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82e0" }
+        },
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82e1" }
+        }
+    ],
+    "handles": [
+        {
+            "name": "Github",
+            "link": "https://github.com/SarveshPatil46",
+            "_id": { "$oid": "632ac913690438c2477a82e2" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/SarveshPatil46",
+            "_id": { "$oid": "632ac913690438c2477a82e3" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/SarveshPatil46",
+            "_id": { "$oid": "632ac913690438c2477a82e4" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/SarveshPatil46",
+            "_id": { "$oid": "632ac913690438c2477a82e5" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/SarveshPatil46",
+            "_id": { "$oid": "632ac913690438c2477a82e6" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/SarveshPatil46",
+            "_id": { "$oid": "632ac913690438c2477a82e7" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        }
+    ],
+    "__v": { "$numberInt": "0" }
+}
