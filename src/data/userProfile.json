@@ -13,30 +13,40 @@
             "_id": { "$oid": "632ac913690438c2477a82ce" }
         },
         {
-            "name": "NodeJS",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82cf" }
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
         },
         {
-            "name": "ExpressJS",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d0" }
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
         },
         {
-            "name": "MongoDB",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d1" }
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
         },
         {
-            "name": "NextJS",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d2" }
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
         },
         {
-            "name": "Cloudinary",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d3" }
-        }
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
+        },
+        {
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
+        },
+        {
+            "name": "React",
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657287794/react_kemmts.png",
+            "_id": { "$oid": "632ac913690438c2477a82ce" }
+        },
     ],
     "projects": [
         {
@@ -45,36 +55,9 @@
             "desc": "description",
             "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
             "github": "https://github.com/SarveshPatil46/portfolio",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
+            "img": "https://static.wixstatic.com/media/94a51f_a5a62567ca6b403ba0361deada2f7a76~mv2.jpg/v1/fill/w_586,h_361,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/94a51f_a5a62567ca6b403ba0361deada2f7a76~mv2.jpg",
             "_id": { "$oid": "632ac913690438c2477a82d4" }
         },
-        {
-            "title": "Portfolio Pro",
-            "type": "Website",
-            "desc": "description",
-            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
-            "github": "https://github.com/SarveshPatil46/portfolio",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d5" }
-        },
-        {
-            "title": "Portfolio Pro",
-            "type": "Website",
-            "desc": "description",
-            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
-            "github": "https://github.com/SarveshPatil46/portfolio",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d6" }
-        },
-        {
-            "title": "Portfolio Pro",
-            "type": "Website",
-            "desc": "description",
-            "appLink": "https://portfolio-sarveshpatil46.vercel.app/",
-            "github": "https://github.com/SarveshPatil46/portfolio",
-            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1657120039/sample.jpg",
-            "_id": { "$oid": "632ac913690438c2477a82d7" }
-        }
     ],
     "exp": [
         {
